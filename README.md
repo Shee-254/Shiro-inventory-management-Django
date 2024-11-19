@@ -37,4 +37,4 @@ ShiroInventory is an inventory management system designed to help users track in
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/jacksonmwadia/ShiroInventory.git
+
